@@ -93,7 +93,7 @@ figure {
 
 
 /* Estilos para el menu */
-#menu {
+.menu {
   position: fixed;
   width: 200px;
   height: 100%;
